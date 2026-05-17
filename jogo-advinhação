@@ -10,6 +10,7 @@ while True:
     tentativas = 1
     vidas = 3
     print(f"\nNovo jogo iniciado!")
+    print(f"Você tem apenas 3 tentativas!")
     print(f"{nome}, você deve escolher um número entre 0 e 10")
     while True:
             resposta = input()
