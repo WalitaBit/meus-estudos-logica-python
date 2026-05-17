@@ -15,7 +15,8 @@ Decidi focar inicialmente na linguagem **Python** para construir uma base sólid
 ## 📈 Próximos Passos
 - [x] Aprender o básico de Variáveis e Condicionais
 - [x] Criar um validador de dados contra usuários "leigos"
+- [x] Criar o meu primeiro jogo simples via terminal
+- [x] Criar Pedra, Papel e Tesoura
 - [ ] Aprender sobre Listas e Dicionários em Python
-- [ ] Criar o meu primeiro jogo simples via terminal (como Pedra, Papel e Tesoura)
 
 *Dica: Sinta-se à vontade para explorar os códigos e deixar um feedback!*
