@@ -11,9 +11,10 @@ while True:
         else:
             break
     except ValueError:
-        print(f"Erro, porfavor, digite apenas números!")
+        print(f"Ei, digite apenas números!")
 
 if idade <= 17:
     print(f"Poxa {name}, você é menor de idade.")
 else:
     print(f"Que legal {name}, você é maior de idade!")
+input("\nPresione Enter para sair...")
