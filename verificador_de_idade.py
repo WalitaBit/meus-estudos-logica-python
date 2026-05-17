@@ -6,6 +6,8 @@ while True:
         idade = int(resposta)
         if idade >= 120:
                 print(f"Acredito que você não é uma mumia")
+        elif idade <= 0:
+                print(f"Você ainda não nasceu?")
         else:
             break
     except ValueError:
