@@ -18,5 +18,4 @@ Decidi focar inicialmente na linguagem **Python** para construir uma base sólid
 - [ ] Aprender sobre Listas e Dicionários em Python
 - [ ] Criar o meu primeiro jogo simples via terminal (como Pedra, Papel e Tesoura)
 
----
 *Dica: Sinta-se à vontade para explorar os códigos e deixar um feedback!*
