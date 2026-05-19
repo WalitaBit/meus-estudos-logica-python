@@ -5,6 +5,7 @@ Decidi focar inicialmente na linguagem **Python** para construir uma base sólid
 ## 🛠️ Tecnologias Utilizadas
 * **Python 3** (Linguagem principal para os desafios de lógica)
 * **Programiz / Replit** (Compiladores online para testes rápidos)
+* **VSCode** (Utilizando atualmente para programar)
 
 ## 📁 Projetos e Exercícios Catalogados
 ### 1. Verificador de Idade Inteligente 🧟
